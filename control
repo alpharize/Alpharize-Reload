@@ -1,0 +1,9 @@
+Package: com.alpharize.proclivity-reload
+Name: Proclivity-Reload
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: swag
+Author: swag
+Section: Tweaks
